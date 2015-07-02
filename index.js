@@ -1,5 +1,9 @@
 
 var schedule = require('node-schedule');
+
+var client = require('./client');
+
+console.log(client);
  
 var timeObject = new Date(); 
 
