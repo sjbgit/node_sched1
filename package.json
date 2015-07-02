@@ -1,0 +1,23 @@
+{
+  "name": "node_sched1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjbgit/node_sched1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjbgit/node_sched1/issues"
+  },
+  "homepage": "https://github.com/sjbgit/node_sched1",
+  "dependencies": {
+    "node-schedule": "^0.2.9",
+    "twilio": "^2.2.1"
+  }
+}
